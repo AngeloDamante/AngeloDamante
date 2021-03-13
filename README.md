@@ -8,9 +8,11 @@
 - *software engineering for control systems* 💻⚙️
 - *embedded systems and code coverage* 🚀✈️
 
+ My main tools are **ROS**, **Python**, **C++** and **QT**.
+
 ## Repos I'm proud of
-- [Feedback linearization controller for AUV](https://github.com/AngeloDamante/AUV_feedback_linearization_controller): Develop of feedback linearization controller for AUV in python.
-- [Control system for Furuta pendulum](https://github.com/AngeloDamante/Furuta_pendulum): Develop of control system for Furuta pendulum model in simulink.
+- [Feedback linearization controller for AUV](https://github.com/AngeloDamante/AUV_feedback_linearization_controller): Develop of feedback linearization controller for AUV in ROS and python.
+- [Control system for Furuta pendulum](https://github.com/AngeloDamante/Furuta_pendulum): Develop of control system for Furuta pendulum model in Simulink.
 
 ## My workflow
 <img src="workflow.png" width="500"/>
