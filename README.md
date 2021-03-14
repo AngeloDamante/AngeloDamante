@@ -2,7 +2,7 @@
 🌱 I’m currently learning a Computer Engineering student at the @University of Florence.
 
 ## About me
- My goal is to become a **robot oriented software developer**. The main focuses of my studies are: 
+ My goal is to become a **robot-oriented software developer**. The main focuses of my studies are: 
 - *robotics systems and automation theory* 🤖⚙️
 - *machine learning* 🧠♟️
 - *software engineering for control systems* 💻⚙️
