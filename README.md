@@ -15,4 +15,6 @@
 - [Control system for Furuta pendulum](https://github.com/AngeloDamante/Furuta_pendulum): Develop of control system for Furuta pendulum model in Simulink.
 
 ## My workflow
-<img src="workflow.png" width="500"/>
+<p align="center">
+ <img src="workflow.png" width="500" />
+</p>
