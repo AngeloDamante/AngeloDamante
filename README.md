@@ -16,5 +16,5 @@
 
 ## My workflow
 <p align="center">
- <img src="workflow.png" width="500" />
+ <img src="Workflow.png" width="500" />
 </p>
