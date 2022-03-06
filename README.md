@@ -11,9 +11,10 @@
  My main tools are **ROS**, **Python**, **C++** and **QT**.
 
 ## Repos I'm proud of
-- [Feedback linearization controller for AUV](https://github.com/AngeloDamante/AUV_feedback_linearization_controller): Develop of feedback linearization controller for AUV in ROS and python.
-- [Control system for Furuta pendulum](https://github.com/AngeloDamante/Furuta_pendulum): Develop of control system for Furuta pendulum model in Simulink.
-- [Embedded Software for Resilience Rover](https://github.com/AngeloDamante/rover-Raspberry-VxWorks): Develop of Embedded Software for _rover-like_ platform named "Resilience" with RTOS VxWorks and Raspberry Pi 3B+.
+- [Feedback linearization controller for AUV](https://github.com/AngeloDamante/AUV_feedback_linearization_controller): Develop of feedback linearization controller for AUV. (#Python, #ROS)
+- [Control system for Furuta pendulum](https://github.com/AngeloDamante/Furuta_pendulum): Develop of control system for Furuta pendulum model. (#Matlab, #Simulink, #Stateflow)
+- [Embedded Software for Resilience Rover](https://github.com/AngeloDamante/rover-Raspberry-VxWorks): Develop of Embedded Software for _rover-like_ platform named "Resilience" with RTOS VxWorks and Raspberry Pi 3B+. (#C++, #RT)
+- [Tinkerkit Braccio 5 DOF control with Simulink](https://github.com/AngeloDamante/arm-manipulator-5dof): Modeling, Simulation and Implementation of Arm Manipulator with 5 DOF. (#Simulink, #Stateflow)
 
 ## My workflow
 <p align="center">
