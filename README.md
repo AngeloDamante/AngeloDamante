@@ -11,11 +11,11 @@
  My main tools are **ROS**, **Python**, **C++** and **QT**.
 
 ## Repos I'm proud of
-- [Feedback linearization controller for AUV](https://github.com/AngeloDamante/AUV_feedback_linearization_controller) (#Python, #ROS)
-- [Control system for Furuta pendulum](https://github.com/AngeloDamante/Furuta_pendulum) (#Matlab, #Simulink, #Stateflow)
-- [Embedded Software for Resilience Rover](https://github.com/AngeloDamante/rover-Raspberry-VxWorks) (#C++, #RT, #Raspberry, #VxWorks)
-- [Tinkerkit Braccio 5 DOF control with Simulink](https://github.com/AngeloDamante/arm-manipulator-5dof) (#Simulink, #Stateflow, #Arduino)
-- [Blob Detector for virus particles with segmentation techniques](https://github.com/AngeloDamante/particle-segmentation-detector)
+- [Feedback linearization controller for AUV](https://github.com/AngeloDamante/AUV_feedback_linearization_controller) `#Python, #ROS`
+- [Control system for Furuta pendulum](https://github.com/AngeloDamante/Furuta_pendulum) `#Matlab, #Simulink, #Stateflow`
+- [Embedded Software for Resilience Rover](https://github.com/AngeloDamante/rover-Raspberry-VxWorks) `#C++, #RT, #Raspberry, #VxWorks`
+- [Tinkerkit Braccio 5 DOF control with Simulink](https://github.com/AngeloDamante/arm-manipulator-5dof) `#Simulink, #Stateflow, #Arduino`
+- [Blob Detector for virus particles with segmentation techniques](https://github.com/AngeloDamante/particle-segmentation-detector) `#PyTorch, #NeuralNetwork, #DeepLearning`
 
 ## My workflow
 <p align="center">
